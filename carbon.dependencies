@@ -45,6 +45,6 @@
         "remote": "gh",
         "repository": "F4k/propietary_vendor_samsung_serrano-common",
         "target_path": "vendor/samsung/serrano-common",
-        "revision": "cm-12.1"
+        "revision": "carbon"
     }
 ]
